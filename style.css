@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(239, 114, 5);
+}
+header{
+color: rgb(255, 255, 0);
+}
+p{
+color: rgb(235, 235, 11);
+font-size: large;
+font-weight: bold;
+}
+
+a{
+    color: rgb(255, 255, 0);
+}
